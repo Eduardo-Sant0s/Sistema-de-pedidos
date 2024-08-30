@@ -1,0 +1,14 @@
+C:\Users\eduzi\Desktop\Eduardo Ulbra\LaboratórioProgramação\tde04\obj\Debug\net8.0\tde04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduzi\Desktop\Eduardo Ulbra\LaboratórioProgramação\tde04\obj\Debug\net8.0\tde04.AssemblyInfoInputs.cache
+C:\Users\eduzi\Desktop\Eduardo Ulbra\LaboratórioProgramação\tde04\obj\Debug\net8.0\tde04.AssemblyInfo.cs
+C:\Users\eduzi\Desktop\Eduardo Ulbra\LaboratórioProgramação\tde04\obj\Debug\net8.0\tde04.csproj.CoreCompileInputs.cache
+C:\Users\eduzi\Desktop\Eduardo Ulbra\LaboratórioProgramação\tde04\bin\Debug\net8.0\tde04.exe
+C:\Users\eduzi\Desktop\Eduardo Ulbra\LaboratórioProgramação\tde04\bin\Debug\net8.0\tde04.deps.json
+C:\Users\eduzi\Desktop\Eduardo Ulbra\LaboratórioProgramação\tde04\bin\Debug\net8.0\tde04.runtimeconfig.json
+C:\Users\eduzi\Desktop\Eduardo Ulbra\LaboratórioProgramação\tde04\bin\Debug\net8.0\tde04.dll
+C:\Users\eduzi\Desktop\Eduardo Ulbra\LaboratórioProgramação\tde04\bin\Debug\net8.0\tde04.pdb
+C:\Users\eduzi\Desktop\Eduardo Ulbra\LaboratórioProgramação\tde04\obj\Debug\net8.0\tde04.dll
+C:\Users\eduzi\Desktop\Eduardo Ulbra\LaboratórioProgramação\tde04\obj\Debug\net8.0\refint\tde04.dll
+C:\Users\eduzi\Desktop\Eduardo Ulbra\LaboratórioProgramação\tde04\obj\Debug\net8.0\tde04.pdb
+C:\Users\eduzi\Desktop\Eduardo Ulbra\LaboratórioProgramação\tde04\obj\Debug\net8.0\tde04.genruntimeconfig.cache
+C:\Users\eduzi\Desktop\Eduardo Ulbra\LaboratórioProgramação\tde04\obj\Debug\net8.0\ref\tde04.dll
